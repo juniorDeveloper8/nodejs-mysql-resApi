@@ -9,3 +9,8 @@ CREATE TABLE user (
   password varchar(255) not null
 
 ); 
+
+INSERT INTO user VALUES 
+( 1, 'test@tes.com', '12345'),
+( 2, 'peito@jose.com', 'ksldjf'),
+( 3, 'sjaof@sf.com','sdkfjq534');
